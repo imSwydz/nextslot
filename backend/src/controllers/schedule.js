@@ -1,0 +1,1 @@
+// basically the controller to turn messy ai data to a proper schedule format
